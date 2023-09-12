@@ -131,3 +131,9 @@ dmypy.json
 
 # Misc
 .DS_Store
+
+
+notebooks/*
+!notebooks/1-Introducao_ao_pandas.ipynb
+!notebooks/Exercícios.ipynb
+!notebooks/0-verificador_ambiente.ipynb
