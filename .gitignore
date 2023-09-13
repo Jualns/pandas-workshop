@@ -135,5 +135,6 @@ dmypy.json
 
 notebooks/*
 !notebooks/1-Introducao_ao_pandas.ipynb
+!notebooks/2-*
 !notebooks/Exercícios.ipynb
 !notebooks/0-verificador_ambiente.ipynb
